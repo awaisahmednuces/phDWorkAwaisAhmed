@@ -1,1 +1,5 @@
 # phDWorkAwaisAhmed
+
+My PhD work leverages advanced deep learning frameworks to address critical challenges in medical data analysis, such as data imbalance and inefficient feature representation, across various modalities. Introducing innovative framework like ***, OCCNet, ***, MED-Prompt, and *** significantly enhances the accuracy and efficiency of medical diagnoses and predictions. These contributions, deeply interconnected, optimize feature selection, rebalance tabular data, class distributions and modality balancing, and ensure computational efficiency, setting new benchmarks in AI-driven healthcare. This research promises to improve patient care through robust frameworks by providing scalable and effective solutions for analyzing heterogeneous healthcare data, showcasing a comprehensive approach to overcoming obstacles in medical imaging and prediction tasks. 
+
+#*** Are used to hide name of framework in progress either they are being reviewed at some journal/conference and are in submission phase.
